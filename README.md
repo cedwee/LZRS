@@ -1,4 +1,0 @@
-LZRS
-====
-
-Lazy Room Script
